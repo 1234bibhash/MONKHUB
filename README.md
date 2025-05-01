@@ -2,7 +2,7 @@
 
 A responsive and visually engaging landing page built using **HTML**, **CSS**, and **JavaScript**. This project serves as a frontend template for promoting **new courses**, **events**, or **student clubs**. Designed with a focus on clarity, simplicity, and modern web standards.
 
-🌐 **Live Demo**: [View the Project](fibhub.netlify.app)
+🌐 **Live Demo**: [View the Project](https://fibhub.netlify.app)
 
 ---
 
